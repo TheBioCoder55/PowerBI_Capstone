@@ -1,6 +1,4 @@
-# Capstone Project (Power BI) – Retail Sales Analysis Dashboard
-
-# 📊 Capstone Project: Retail Sales Dashboard (Power BI)
+# 📊 Capstone Project (Power BI) – Retail Sales Analysis Dashboard
 
 ## 📝 Project Overview
 This capstone project demonstrates my ability to analyze and visualize retail sales data using **Power BI**. I started with raw Excel data and used **Power Query** and **DAX** to clean, model, and visualize key metrics. The final output is a single-page interactive dashboard that highlights sales performance and business insights.
